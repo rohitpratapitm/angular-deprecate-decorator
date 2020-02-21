@@ -1,0 +1,3 @@
+# angular-deprecate-decorator
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-deprecate-decorator)
